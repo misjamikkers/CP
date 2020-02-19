@@ -1,6 +1,0 @@
-# Exam
-
-Your grade is determined by:
-
-- presentations and cases in class (40%)
-- a written exam of 180 minutes (60%)
