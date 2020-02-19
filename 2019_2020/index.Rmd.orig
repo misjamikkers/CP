@@ -1,0 +1,27 @@
+--- 
+<<<<<<< HEAD
+title: "Course Manual Seminar Competition Policy"
+author: "Misja Mikkers and Clemens Fiedler"
+=======
+title: "Course Manual Programming for Economists"
+author: "Misja Mikkers and Florian Sniekers"
+>>>>>>> 112322304600fe72a31615287426423c480faad4
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Course Manual Programming for Economists"
+---
+
+# Prerequisites
+<<<<<<< HEAD
+
+No prerequisites required
+=======
+>>>>>>> 112322304600fe72a31615287426423c480faad4
+
+No prerequisites required.

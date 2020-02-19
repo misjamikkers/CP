@@ -1,0 +1,7 @@
+stap 1. Open index.Rmd
+stap 2. Session -> Set working directory -> to source file location
+stap 3. Typ commando in de console (venster beneden): bookdown::render_book('index.Rmd')
+stap 4. Typ commando in de console (venster beneden): bookdown::render_book('index.Rmd', 'bookdown::pdf_book')
+stap 5. Commit folder (course_manual_PFE)
+stap 6. Kopieer alle files (die geen folder zijn) uit folder _book naar folder PFE
+stap 7. Commit en push (PFE)
