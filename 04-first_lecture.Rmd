@@ -1,0 +1,10 @@
+# Information first Lecture
+
+organization of the course
+rules of the game
+basics Markdown
+basics python
+basics R
+To prepare before class:
+
+Install Latex (MikTex or MacTex), Anaconda, R and R studio and bring your laptop

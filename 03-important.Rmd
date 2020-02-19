@@ -1,0 +1,11 @@
+# Important
+
+
+_Things to do if you want to follow this course:_
+
+Install 
+
+- MikteX (for Windows or Linux) or MacTeX for Apple
+- R
+- RStudio
+- Anaconda (for Python)
